@@ -56,11 +56,7 @@
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/Do.While.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/[Thực hành] Sử dụng vòng lặp lồng nhau.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsagsgsdfgsfd.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/[Thực hành] Sử dụng vòng lặp while.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/misc.xml" afterDir="false" />
@@ -80,6 +76,8 @@
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2HX7OLZTyya14VVOxXpZtt5MamV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -126,7 +124,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668419541048</updated>
-      <workItem from="1668419542215" duration="791000" />
+      <workItem from="1668419542215" duration="1850000" />
+      <workItem from="1668433879861" duration="11603000" />
     </task>
     <servers />
   </component>
@@ -138,7 +137,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
